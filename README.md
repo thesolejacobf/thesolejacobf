@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Jacob Ferguson. I am a student at Wayne State College in Nebraska. I primarily focus on computer networking, but I may occasionally code sometimes!
-- ✏️ Things I'm doing: College Classes, Building a PC
-- 📖 Things I'm learning: Java, Networking, and Sociology?????
+I am **Jacob Ferguson**. I am a student at Wayne State College in Nebraska. I primarily focus on computer networking, but I may occasionally code sometimes!
+- ✏️ Things I'm doing: College Classes, Some Java, contemplating learning python
+- 📖 Things I know: Java, HTML, CSS, Bash
 - 📫 How to reach me: (jaferg01@wsc.edu)
 - ⚡Fun fact: My #1 most used emoji is ✨
