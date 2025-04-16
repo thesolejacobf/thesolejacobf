@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 I am **Jacob Ferguson**. I am a student at Wayne State College in Nebraska. I primarily focus on computer networking, but I may occasionally code sometimes!
 - ✏️ Things I'm doing: College Classes, Some Java, Contemplating learning Python
 - 🎮 What I plan to do: Maybe make a game one day. Maybe. Perchance.
-- 📖 Things I know: Java, HTML, CSS, Bash/Zsh, C++
+- 📖 Things I know: HTML, CSS, Bash/Zsh, C++
 - 📫 How to reach me: [email](mailto:jaferg01@wsc.edu)
 - ⚡Fun fact: My #1 most used emoji is ✨
+- ☕️ Average Coffee Enjoyer. (not the Java langauge)
